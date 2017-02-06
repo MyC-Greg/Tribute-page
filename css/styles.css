@@ -1,0 +1,36 @@
+.imgPortrait {
+  margin: auto;
+   width: 40%;
+   display: block;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+.title{
+  margin: auto;
+  width: auto;
+  font-size: 2.5em;
+  padding: 30px;
+  color: grey;
+
+}
+
+.jumbotron {
+    padding-top: 10px;
+  }
+
+  .quote{
+    text-align: center;
+    font-size: 70%;
+    font-style: italic;
+  }
+
+  .i{
+    font-style: italic;
+  }
+
+  .content{
+    border-left: 30px;
+    border-right: 30px;
+
+  }
